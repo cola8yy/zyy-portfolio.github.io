@@ -1,4 +1,4 @@
-baseURL = 'https://zyy-portfolio.github.io/'
+baseURL = 'https://github.com/cola8yy/zyy-portfolio.github.io.git/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = "sada-theme"
